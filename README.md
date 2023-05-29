@@ -1,5 +1,5 @@
 # Hi there, I'm Inderdeep  👋🏻
-I'm a recent graduate from Bishop's University
+I'm a 24 year old software developer with a passion for all things Web and programming(especially JavaScript, React and Node).
 
 ## Current Projects <br/>
 > ⭐️ [Splendor](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style.
