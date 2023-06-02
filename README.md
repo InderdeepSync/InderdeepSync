@@ -1,5 +1,5 @@
 # Hi there, I'm Inderdeep  👋🏻
-I'm a 24 year old software developer with a passion for all things Web and programming(especially JavaScript, React and Node).
+I'm a 24 year old software developer with a passion for all things Web and programming(especially Python, JavaScript, React and Node).
 
 
 ## My Values
