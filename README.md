@@ -18,4 +18,4 @@ I'm a 24 year old software developer with a passion for all things Web and progr
 - [Portfolio](https://inderdeepsync.netlify.app/) <br/>
 - [Instagram](https://www.instagram.com/inderdeepsync/) <br/>
 - [Linkedin](https://www.linkedin.com/in/inderdeep-sync/) <br/>
-- [Twitter]([https://twitter.com/julia_codes](https://twitter.com/InderdeepSync)) <br/>
+- [Twitter](https://twitter.com/InderdeepSync) <br/>
